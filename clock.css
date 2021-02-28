@@ -1,0 +1,13 @@
+body{
+  background-image: url("Laptop.jpg");
+  background-size: cover;
+	background-repeat: no-repeat;
+}
+#clock {
+  font-size: 125px;
+  width: 800px;
+  margin:145px 5px 5px 615px;
+  display: inline-block;
+  color:#009999;
+
+}
